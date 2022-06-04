@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-router-transition": "^2.1.0",
+    "recharts": "^2.1.10"
+  }
+}
